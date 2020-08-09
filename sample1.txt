@@ -1,1 +1,1 @@
-Sample1 file content
+sample1.txt file content changed to check reset command
